@@ -1,4 +1,4 @@
-# Nodejs-RestAPI
+# Nodejs-RestAPI with Express.js
 
 1) Download the files and run npm run in the directory
 2) Run App.js file.
