@@ -1,0 +1,33 @@
+RESTAPI
+
+
+/technology | GET | all the data from data
+
+**********************************************************
+
+ 
+/technology |POST |
+
+{"id": "3", "Reactjs: "library", "Angular" : "framework", "Phone"}
+
+***************************************************************
+
+/technology |PUT |
+
+
+{"id": "3", "Reactjs: "library", "Angular" : "framework", "Phone"}
+
+*****************************************************************
+
+/technolgy |DELETE |
+
+{"id": "3"}
+
+********************************************************************
+
+MYSQLDATABASE
+
+Schema Name: node
+Table Name: technology
+
+please find the tablecontent.JPG for table design
